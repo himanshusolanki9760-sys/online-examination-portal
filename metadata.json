@@ -1,0 +1,8 @@
+{
+  "name": "Meridian Assessment",
+  "description": "Institutional assessment administration, live proctoring console, and high-stakes examination workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
